@@ -9,7 +9,7 @@ public class Iphone implements AparelhoTelefonico, NavegadorInternet , Reproduto
         System.out.println("Atendendo o telefone ......");
     }
 
-    public void iniciarCorrerioVoz() {
+    public void iniciarCorreioVoz() {
         System.out.println("Chamando o correio de voz....");
     }
 

@@ -5,7 +5,7 @@ public class Main {
         //Aparelho
         iphone.ligar();
         iphone.atender();
-        iphone.iniciarCorrerioVoz();
+        iphone.iniciarCorreioVoz();
 
         //Navegador
 
